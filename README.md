@@ -42,17 +42,17 @@ cats-lover-paradise/
 ├── index.html             # Main HTML file for the website structure
 ├── style.css              # CSS file for styling the website
 └── README.md              # Documentation file (this file)
-Usage:
-Home Page: The homepage includes a hero section that greets visitors with an engaging background image and a call-to-action "Get Started" button.
-About Section: Provides visitors with information about Cats Lover Paradise, the type of cats available, and the values of the business.
-Services Section: Displays kittens available for purchase, each with a photo, name, price, and "Buy" button for easy selection.
-Testimonials Section: Shows feedback from previous customers, complete with images and names.
-Contact Form: Allows users to enter their name, email, and message to contact the business. This form does not currently have backend functionality but is designed for demonstration purposes.
-Responsive Design
-This website is fully responsive and optimized for viewing on mobile, tablet, and desktop devices.
 
+## Usage:
+- **Home Page**: The homepage includes a hero section that greets visitors with an engaging background image and a call-to-action "Get Started" button.
+- ** About Section**: Provides visitors with information about Cats Lover Paradise, the type of cats available, and the values of the business.
+- **Services Section**: Displays kittens available for purchase, each with a photo, name, price, and "Buy" button for easy selection.
+- **Testimonials Section**: Shows feedback from previous customers, complete with images and names.
+- **Contact Form**: Allows users to enter their name, email, and message to contact the business. This form does not currently have backend functionality but is designed for demonstration purposes.
+## Responsive Design:
+This website is fully responsive and optimized for viewing on mobile, tablet, and desktop devices.
 The navbar adapts to smaller screens with a hamburger menu.
 The hero section and content sections resize appropriately to fit various screen sizes.
-Credits:
-Font Awesome: Font Awesome Icons
-Images: Images were used from stock photography and should be replaced with business-specific images for real-world use.
+## Credits:
+- **Font Awesome**: Font Awesome Icons
+- **Images**: Images were used from stock photography and should be replaced with business-specific images for real-world use.
