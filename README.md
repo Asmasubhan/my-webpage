@@ -34,11 +34,10 @@ git clone https://github.com/Asmasubhan/my-webpage
 Open index.html in your preferred browser to view the website.
 
 ## File Structure
-cats-lover-paradise/
-├── Images/                # Folder containing images used on the website
-├── index.html             # Main HTML file for the website structure
-├── style.css              # CSS file for styling the website
-└── README.md              # Documentation file (this file)
+- **Images**                 # Folder containing images used on the website
+- **index.html**             # Main HTML file for the website structure
+- **style.css**              # CSS file for styling the website
+- **README.md**              # Documentation file (this file)
 
 ## Usage:
 - **Home Page**: The homepage includes a hero section that greets visitors with an engaging background image and a call-to-action "Get Started" button.
