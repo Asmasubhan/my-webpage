@@ -1,4 +1,4 @@
-## "Cats Lover Paradise"
+# Cats Lover Paradise
 
 ## Table of Contents
 
@@ -12,7 +12,7 @@
 8. [Credits](#credits)
 
 ## Project Overview
-Cats Lover Paradise is a responsive HTML and CSS-based website designed for selling Persian cat kittens. This website provides a seamless user experience across devices and includes an introduction to the business, available cat services, testimonials from previous customers, and a contact form.
+Cats Lover Paradise is a responsive HTML and CSS-based website designed for selling Persian kittens. This website provides a seamless user experience across devices and includes an introduction to the business, available cat services, testimonials from previous customers, and a contact form.
 
 ## Features
 - **Responsive Navigation Bar**: Fixed, multi-link navbar with hover effects, compatible with mobile, tablet, and desktop views.
